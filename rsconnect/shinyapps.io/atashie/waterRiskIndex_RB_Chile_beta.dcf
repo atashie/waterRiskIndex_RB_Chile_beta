@@ -1,0 +1,12 @@
+name: waterRiskIndex_RB_Chile_beta
+title: waterRiskIndex_RB_Chile_beta
+username: atashie
+account: atashie
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11299026
+bundleId: 8285537
+url: https://atashie.shinyapps.io/waterRiskIndex_RB_Chile_beta/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
